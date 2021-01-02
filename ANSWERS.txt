@@ -1,0 +1,17 @@
+Questions:-
+
+1   : What's your favourite state management library for react and why?
+Ans : Redux
+
+2   : Write some react native best practices.
+Ans : find below...
+      iOS     : https://apps.apple.com/in/app/myhangers/id1500381566
+      Android : https://play.google.com/store/apps/details?id=com.myhangers
+
+
+3   : Which coding style you prefer wet or dry and why?
+Ans : dry
+
+
+4   : What do you prefer expo or vanilla react native and why?
+Ans : i use npm
